@@ -1,6 +1,6 @@
 //modified by: Mark Felisilda
 //date:
-//purpose:
+//purpose:  Lab/Homework
 //
 //cs3350 Spring 2017 Lab-1
 //This program demonstrates the use of OpenGL and XWindows

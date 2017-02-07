@@ -1,6 +1,6 @@
 //modified by: Mark Felisilda
 //date:
-//purpose:
+//purpose:  Lab/Homework
 //
 //cs3350 Spring 2017 Lab-1
 //This program demonstrates the use of OpenGL and XWindows
@@ -89,6 +89,9 @@ void render(Game *game);
 
 int main(void)
 {
+    std::cout << "I couldn't get Byzanz to work on my home computer" << std::endl;
+    std::cout << "Only one box is registering collisions. I'll keep working on this past the due date, and I'll accept the point deduction" << std::endl;
+
     int done=0;
     srand(time(NULL));
     initXWindows();
