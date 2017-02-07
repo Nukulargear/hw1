@@ -89,6 +89,9 @@ void render(Game *game);
 
 int main(void)
 {
+    std::cout << "I couldn't get Byzanz to work on my home computer" << std::endl;
+    std::cout << "Only one box is registering collisions. I'll keep working on this past the due date, and I'll accept the point deduction" << std::endl;
+
     int done=0;
     srand(time(NULL));
     initXWindows();
